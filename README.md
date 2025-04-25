@@ -1,6 +1,6 @@
 
 
-
+ME check
 # 🌐 LoRaWAN Network Optimization & Real-Time Dashboard
 
 A full-stack platform to simulate, monitor, and optimize LoRaWAN network parameters in real time using ChirpStack, Socket.IO, FastAPI, and Supabase. Visualize live sensor data and dynamically tune Adaptive Data Rate (ADR) settings via a modern web interface.
